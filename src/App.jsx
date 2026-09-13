@@ -61,7 +61,7 @@ export default function App() {
     phone: "+94 78 461 4830",
     whatsapp: "94784614830",
     email: "nuwiix21@gmail.com",
-    github: "https://github.com/nuwiix21",
+    github: "https://github.com/nuwiix21-a11y",
     linkedin: "https://www.linkedin.com/in/nuwansara-gunaratne/"
   }
 
@@ -77,7 +77,7 @@ export default function App() {
         "Engineered robust role-based access for academic administrators and instructors.",
         "Implemented thorough unit and system testing ensuring zero data corruption during bulk imports."
       ],
-      link: "https://github.com/nuwiix21"
+      link: "https://github.com/nuwiix21-a11y"
     },
     {
       id: "02",
@@ -90,7 +90,7 @@ export default function App() {
         "Integrated dynamic bill computation with automatic tax, discount, and receipt generation logic.",
         "Designed modular architecture allowing plug-and-play expansion of reporting modules."
       ],
-      link: "https://github.com/nuwiix21"
+      link: "https://github.com/nuwiix21-a11y"
     },
     {
       id: "03",
@@ -103,7 +103,7 @@ export default function App() {
         "Optimized asset loading and core web vitals for sub-second initial load speeds.",
         "Integrated direct inquiry workflows routing orders and table bookings directly to management."
       ],
-      link: "https://github.com/nuwiix21"
+      link: "https://github.com/nuwiix21-a11y"
     }
   ]
 
@@ -233,7 +233,7 @@ export default function App() {
 
           <div className="nav-actions">
             <motion.a
-              href="/nuwansara-cv.pdf"
+              href="/Nuwansara_Gunaratne_CV.pdf"
               download="Nuwansara_Gunaratne_CV.pdf"
               className="btn-nav-resume"
               whileHover={{ scale: 1.03 }}
@@ -277,7 +277,7 @@ export default function App() {
               <a href="#certifications" onClick={() => setMobileMenuOpen(false)}>Certifications</a>
               <a href="#contact" onClick={() => setMobileMenuOpen(false)}>Contact</a>
               <a
-                href="/nuwansara-cv.pdf"
+                href="/Nuwansara_Gunaratne_CV.pdf"
                 download="Nuwansara_Gunaratne_CV.pdf"
                 className="mobile-resume-link"
                 onClick={() => setMobileMenuOpen(false)}
@@ -339,7 +339,7 @@ export default function App() {
                   </svg>
                 </motion.a>
                 <motion.a
-                  href="/nuwansara-cv.pdf"
+                  href="/Nuwansara_Gunaratne_CV.pdf"
                   download="Nuwansara_Gunaratne_CV.pdf"
                   className="btn-outline-pro"
                   whileHover={{ scale: 1.02, y: -2 }}
